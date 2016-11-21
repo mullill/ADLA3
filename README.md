@@ -11,42 +11,42 @@ The dataset obtained from a prostate cancer lab containing 3000 observations wit
 ## Tasks
 
 ### 1. Exploratory Data Analysis
-1.1 Perform EDA and report a **summary** of your findings.
-1.2 Summary must be <= 300 words.
-1.3 EDA must support model selection methodology.
-1.4 Code cells must be accomponied by a markdown description of the output.
-1.5 Explore variable types, correlations, distributions and discuss as necessary.
+1.1 Perform EDA and report a **summary** of your findings.<br />
+1.2 Summary must be <= 300 words.<br />
+1.3 EDA must support model selection methodology.<br />
+1.4 Code cells must be accomponied by a markdown description of the output.<br />
+1.5 Explore variable types, correlations, distributions and discuss as necessary.<br />
 
 ### 2. Classifier Training
-2.1 Select a classifier appropriately.
-2.2 Try several classifiers to appropriately justify your selection.
-2.3 Generate training and validation sets.
-2.4 Use appropriate cross validation approaches.
-2.5 Fully comment code on low level actions.
-2.6 Actual validation set is hidden, lowest classification error wins.
+2.1 Select a classifier appropriately.<br />
+2.2 Try several classifiers to appropriately justify your selection.<br />
+2.3 Generate training and validation sets.<br />
+2.4 Use appropriate cross validation approaches.<br />
+2.5 Fully comment code on low level actions.<br />
+2.6 Actual validation set is hidden, lowest classification error wins.<br />
 
 ### 3. Report
-3.1 Develop detailed report on tasks.
+3.1 Develop detailed report on tasks.<br />
 
 # Burndown
 
-B1.1 Visualisation
-B1.2 Principle Component Analysis
-B1.3 Feature Engineering
-B1.4 Wrapper Functions and Data Pipeline Engineering
-B1.5 EDA Summary
-B1.6 EDA Notebook Compilation
+B1.1 Visualisation<br />
+B1.2 Principle Component Analysis<br />
+B1.3 Feature Engineering<br />
+B1.4 Wrapper Functions and Data Pipeline Engineering<br />
+B1.5 EDA Summary<br />
+B1.6 EDA Notebook Compilation<br />
 
-B2.1 Training ~ Testing Set Construction
-B2.2 Resampling & Testing Methodolgy Identification
-B2.3 Model Search
-B2.4 Preliminary Model Training
-B2.5 Model Comparison
-B2.6 Final Model Selection
-B2.7 Model Retuning
-B2.8 Wrapper Functions and Model Engineering
-B2.9 Model Training Summary
-B2.10 Model Notebook Compilation
+B2.1 Training ~ Testing Set Construction<br />
+B2.2 Resampling & Testing Methodolgy Identification<br />
+B2.3 Model Search<br />
+B2.4 Preliminary Model Training<br />
+B2.5 Model Comparison<br />
+B2.6 Final Model Selection<br />
+B2.7 Model Retuning<br />
+B2.8 Wrapper Functions and Model Engineering<br />
+B2.9 Model Training Summary<br />
+B2.10 Model Notebook Compilation<br />
 
-B3.1 Discussion
-B3.2 Final Notebook Compilation.
+B3.1 Discussion<br />
+B3.2 Final Notebook Compilation<br />
